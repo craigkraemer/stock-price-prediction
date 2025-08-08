@@ -1,5 +1,5 @@
 import pandas as pd
-from sklearn.linear_model import
+from sklearn.linear_model import LinearRegression
 LinearRegression
 
 data ={
