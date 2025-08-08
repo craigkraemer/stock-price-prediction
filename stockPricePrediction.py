@@ -1,6 +1,5 @@
 import pandas as pd
 from sklearn.linear_model import LinearRegression
-LinearRegression
 
 data ={
   "Day": [1, 2, 3, 4],
